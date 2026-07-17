@@ -1,0 +1,3 @@
+﻿  Menue.cpp
+C:\Users\Alimadadi_Math\Desktop\Learning C plus plus\Menue\Menue.cpp(65,62): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Menue.vcxproj -> C:\Users\Alimadadi_Math\Desktop\Learning C plus plus\Menue\x64\Debug\Menue.exe
